@@ -1,0 +1,39 @@
+body {
+  font-family: 'Dancing Script', cursive;
+  margin: 0 auto;
+  padding: 20px 20px 20px 20px;
+  }
+  header {
+    text-align: center;
+    color: pink;
+  }
+  #logo {
+    border: 5px solid;
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+  }
+  h1 {
+    text-align: center;
+    font-size: 30px;
+    color: black;
+  }
+  #navigation {
+    padding: 5px;
+    background: rgb(53, 223, 118, 0.25);
+  }
+  #navigation li {
+    display: inline;
+    padding: 0px 60px 0px 60px;
+    font-size: 20px;
+  }
+  .dish-card {
+    text-align: center;
+  }
+  #dish-list {
+    padding: 10px;
+  }
+  #dish-list li {
+    display: inline;
+    padding: 20px 20px 20px 20px;
+  }

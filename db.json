@@ -1,0 +1,50 @@
+{
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Spring Rolls",
+      "image": "assets/spring_rolls.jpg",
+      "likes": 4
+    },
+    {
+      "id": 1,
+      "name": "Vermicelli Plate",
+      "image": "assets/vermicelli_plate.jpg",
+      "likes": 4
+    },
+    {
+      "id": 2,
+      "name": "Bun Rieu: Crab Meat Soup",
+      "image": "assets/bun_reiu.jpg",
+      "likes": 4
+    },
+    {
+      "id": 3,
+      "name": "Shrimp and Pork Summer Rolls",
+      "image": "assets/summer_rolls.jpg",
+      "likes": 5
+    }
+  ],
+  "reviews": [
+    {
+      "id": 0,
+      "body": "some review",
+      "dishId": 0
+    },
+    {
+      "body": "yummylicious",
+      "dishId": 1,
+      "id": 1
+    },
+    {
+      "body": "yummylicious",
+      "dishId": 0,
+      "id": 2
+    },
+    {
+      "body": "hello",
+      "dishId": 1,
+      "id": 3
+    }
+  ]
+}
